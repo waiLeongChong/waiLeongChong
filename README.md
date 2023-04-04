@@ -46,7 +46,8 @@
 
 </p>
 
-Project:
+<h3 align="left">Projects:</h3>
+
 - [Weather App Project](https://waileongchong.github.io/project-weather-app/)
 - [Portfolio Project](https://waileongchong.github.io/portfolio-project/) 
 
