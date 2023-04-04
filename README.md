@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wai leong Chong</h1>
-<h3 align="center">Passionate about using technology to make a positive impact, currently developing my software engineering skills at Pursuit.</h3>
+<h3 align="center">Full-Stack Developer learning at Pursuit, passionate about innovation.<</h3>
 
 - 🌱 I’m currently learning **Javascript and React**
 
